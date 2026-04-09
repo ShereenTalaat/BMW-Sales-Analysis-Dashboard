@@ -1,8 +1,6 @@
 BMW Sales Performance & Market Analysis Dashboard
 📌 Project Overview
 This project features a comprehensive and interactive Power BI Dashboard designed to analyze the sales performance of BMW car models across multiple years (2019-2023) and global markets. The goal is to provide data-driven insights into revenue trends, quantity sold, and regional performance to support strategic decision-making.
-dashboard.png
-dashboard1.png
 
 📊 Key Insights
 Revenue Growth: The dashboard tracks Year-over-Year (YoY) revenue growth, showing a current revenue of $76M compared to $72M in the previous year (a dynamic growth of -4.3% depending on the selected year).
